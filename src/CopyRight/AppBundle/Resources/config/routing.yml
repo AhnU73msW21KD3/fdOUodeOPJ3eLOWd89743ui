@@ -1,0 +1,3 @@
+#copy_right_app_homepage:
+#    path:     /login
+#    defaults: { _controller: CopyRightAppBundle:Default:index }

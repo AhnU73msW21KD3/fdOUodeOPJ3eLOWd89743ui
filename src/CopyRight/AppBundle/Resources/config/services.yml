@@ -1,0 +1,4 @@
+services:
+#    copy_right_app.example:
+#        class: CopyRight\AppBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
