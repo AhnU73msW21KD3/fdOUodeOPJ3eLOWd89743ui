@@ -1,6 +1,6 @@
 <?php
 
-// src/CopyRight/AppBundle/User.php
+// src/CopyRight/AppBundle/Entity/User.php
 
 namespace CopyRight\AppBundle\Entity;
 
